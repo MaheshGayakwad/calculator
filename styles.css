@@ -1,0 +1,88 @@
+
+
+h1{
+
+margin: 0;
+padding: 0;
+font-size: 3rem;
+text-align: center;
+color: black;
+
+}
+
+body{
+
+    text-align: center;
+    font-family: 'Tilt Prism', cursive;
+    background-color: powderblue;
+}
+
+input{
+
+    margin: 0 0 0 1rem;
+   
+    border: solid;
+    border-radius: 8%;
+    font-size: 1.8rem;
+    padding: 10px 0;
+    background-color: grey;
+    justify-content: flex-end;
+}
+
+.button{
+    justify-content: flex-end;
+
+    height: 3rem;
+    width: 4rem;
+    margin-left: 1rem;
+    margin-top: 1rem;
+    border-radius: 30%;
+    font-size: xx-large;
+    color: beige;
+    background-color: #454545;
+    box-shadow: 0 5px #000000;
+}
+
+.button:hover {background-color: #aeb3bd}
+
+.button:active {
+  background-color:#252525;
+  box-shadow: 0 5px #000000;
+  transform: translateY(5px);
+}
+
+.equal{
+
+    width: 10rem;
+    border-radius: 15%;
+}
+
+
+.cal{
+
+    color: #33ffd8;
+
+}
+
+
+
+
+.container{
+
+
+    margin-top: 20px;
+    padding-top: 2rem;
+
+    height: 25rem;
+   
+    width: 25rem;
+
+    margin-left: 30%;
+  
+    background-color: #181823;
+    
+    border-radius: 3%;
+    border: solid;
+
+   box-shadow: 0 20px 15px 0 #000000;
+}
